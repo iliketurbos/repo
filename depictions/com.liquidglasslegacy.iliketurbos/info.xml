@@ -9,7 +9,7 @@
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies></dependencies>
+    <dependencies>winterboard</dependencies>
     <descriptionlist>
         <description>This was made for iOS 4.2.1, other versions may not be confirmed.</description>
     </descriptionlist>
