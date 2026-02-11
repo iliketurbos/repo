@@ -1,14 +1,24 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Email me</name>
+			<url>mailto:beerseat.in@gmail.com</url>
+			<iconclass>fa fa-gmail</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>My main Reddit account</name>
+			<url>https://www.reddit.com/user/iliketurbos_official/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>My alt Reddit account</name>
+			<url>https://www.reddit.com/user/Less_Safety_8578/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>My YouTube channel</name>
+			<url>https://www.youtube.com/@iliketurbosofficial</url>
+			<iconclass>fa fa-youtube</iconclass>
 		</link>
 	</footerlinks>
 </repo>
