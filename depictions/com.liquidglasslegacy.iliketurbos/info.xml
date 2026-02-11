@@ -10,9 +10,18 @@
         </firmware>
     </compatibility>
     <dependencies>winterboard</dependencies>
-    <descriptionlist>
-        <description>This was made for iOS 4.2.1, other versions may not be confirmed.</description>
-    </descriptionlist>
+<descriptionlist>
+    <description>Icon's Included:</description>
+    <description>• Calculator</description>
+    <description>• Clock</description>
+    <description>• Mail</description>
+    <description>• Maps</description>
+    <description>• Music</description>
+    <description>• Music</description>
+    <description>• Notes</description>
+    <description>• Photos</description>
+    <description>• Safari</description>
+</descriptionlist>
     <screenshots></screenshots>
     <changelog>
         <change>Testing alpha release</change>
