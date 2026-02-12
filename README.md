@@ -5,5 +5,3 @@
 ## Tweaks
 ### Icon Themes:
 - Liquid Glass Legacy - V0.1-alpha
-
-![evo3](https://github.com/user-attachments/assets/7ad857d7-08c8-4da5-86c4-7e0f2a3f1400)
