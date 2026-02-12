@@ -4,4 +4,4 @@
 
 ## Tweaks
 ### Icon Themes:
-- Liquid Glass Legacy - V0.1-alpha
+- Liquid Glass Legacy - V0.2-alpha
