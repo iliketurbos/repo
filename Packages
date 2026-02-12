@@ -1,13 +1,31 @@
+Package: bag.xml.tuberepair
+Version: 1.1-Beta-2
+Architecture: iphoneos-arm
+Maintainer: bag.xml, Requis
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader
+Filename: ./bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
+Size: 101918
+MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
+SHA1: 2ccb6f9877e86a38c59b55c97f529beb37ebe866
+SHA256: a0728c4753df3625d847ba79c5128123020698f5c22f1890a2eb1b9da659727e
+Section: Tweaks
+Description: TubeRepair is a tweak that redirects YouTube API traffic from the classic YouTube app, and the App Store YouTube app to a designated custom server. You could also just say that it fixes both applications. For assistance refer to the guide (https://tuberepair.bag-xml.com/guide/)
+Author: bag.xml, Requis
+Depiction: https://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
+Name: TubeRepair [BETA]
+
 Package: com.liquidglasslegacy.iliketurbos
 Version: 0.2-alpha
 Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
 Filename: ./com.liquidglasslegacy.iliketurbos.deb
-Size: 316192
-MD5sum: d4805ec337469d14ff1cc6f4de820b89
-SHA1: 2c7cae2a7d433cb6b0839594db6b27d71d5160a1
-SHA256: 3f5264d93b00eaff5e6cad08b31d830d7aa4998ec932a2bcb16e2be5088f353e
+Size: 337420
+MD5sum: 324573ab8b77b402feb999ac3ec7f8a0
+SHA1: 0103d872a070e65a5399550eb71c25e807f5ce8e
+SHA256: 521bd4b9fdcd86f922b5d29b5d305c3caa3e33cc8e2062e519ed8b726811819a
 Section: Themes
 Description: iOS 26 Liquid Glass icons ported to Winterboard.
 Author: iliketurbos
