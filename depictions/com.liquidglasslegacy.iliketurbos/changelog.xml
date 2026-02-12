@@ -2,8 +2,9 @@
 	<changes>
 		<version>0.1-alpha</version>
 		<change>Testing alpha release</change>
-		
+	</changes>
+	<changes>
 		<version>0.2-alpha</version>
-		<change>Most icons added</change>
+		<change>This update comes with the following icons, Phone, Settings, Safari, Contacts, Stocks, YouTube (The one that comes with iOS), Game Center. Planned for next update: Change the video icon to Apple TV icon, add the rest of the icons, and fix the music icon.</change>
 	</changes>
 </changelog>
