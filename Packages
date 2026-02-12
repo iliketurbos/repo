@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
 Filename: ./debs/com.liquidglasslegacy.iliketurbos.deb
-Size: 260880
+Size: 376486
 MD5sum: a89b801f950530ce253f759130c294e0
 SHA1: 2e4654e05e846d61eb8765b5e7b7e09a0d8ed7bf
 SHA256: 83ab94903dc3fedfe88a83d37eb6eaae4723120fdb72103930a2606935cc7974
