@@ -32,7 +32,8 @@
 </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-        <change>Testing alpha release</change>
+        <change>This update comes with the following icons,
+            Phone, Settings, Safari, Contacts, Stocks, YouTube (The one that comes with iOS), Game Center. Planned for next update: Change the video icon to Apple TV icon, add the rest of the icons, and fix the music icon.</change>
     </changelog>
     <links></links>
 </package>
