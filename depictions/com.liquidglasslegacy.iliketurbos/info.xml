@@ -11,7 +11,7 @@
     </compatibility>
     <dependencies>winterboard</dependencies>
 <descriptionlist>
-    <description>All icons were sourced from https://logos.fandom.com/wiki/Category:Apple</description>
+    <description> An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Category:Apple</description>
     <description>Icon's Included:</description>
     <description>• Calculator</description>
     <description>• Clock</description>
@@ -22,6 +22,14 @@
     <description>• Notes</description>
     <description>• Photos</description>
     <description>• Safari</description>
+    <description>• Phone</description>
+    <description>• Settings</description>
+    <description>• Safari</description>
+    <description>• Contacts</description>
+    <description>• Stocks</description>
+    <description>• Safari</description>
+    <description>• YouTube (The one that comes with iOS)</description>
+    <description>• Game Center</description>
 </descriptionlist>
     <screenshots></screenshots>
     <changelog>
