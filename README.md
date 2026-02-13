@@ -8,4 +8,4 @@
 <img width="320" height="480" alt="preview" src="previews/lgl01.png" />
 
 ### Tweaks
-- [HTTPatch](https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0) - V1.0 (This removes the iOS limits, it's experimental. Original link is [here](https://cydia.invoxiplaygames.uk/package/cydiahttpatch) )
+- [HTTPatch](https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0) - V1.0 (This removes the iOS limits, it's experimental. Original link is [here](https://cydia.invoxiplaygames.uk/package/cydiahttpatch))
