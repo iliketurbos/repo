@@ -5,4 +5,4 @@
 ## Tweaks
 ### Icon Themes:
 - Liquid Glass Legacy - V0.2-alpha
-<img width="320" height="480" alt="preview" src="previews/lgl001.png" />
+<img width="320" height="480" alt="preview" src="previews/lgl01.png" />
