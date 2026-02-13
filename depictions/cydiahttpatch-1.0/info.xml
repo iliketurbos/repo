@@ -1,0 +1,20 @@
+<package>
+    <id>cydiahttpatch-1.0</id>
+    <name>HTTPatch</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>3.0</miniOS>
+            <maxiOS>4.3</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+<descriptionlist>
+    <description>Cydia HTTPatch is a tweak that makes Cydia request its pages over HTTP, improving the usability and speed drastically on iOS 3. It *should not* be installed on iOS 4 and above as they support Server Name Identification (SNI) over HTTPS, removing the need for this tweak - the tweak also gives every loaded webpage access to the cydia JavaScript object, posing a potential security risk. Use with caution.</description>
+</descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>- Initial Release</change>
+    </changelog>
+    <links></links>
+</package>
