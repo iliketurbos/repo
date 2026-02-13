@@ -18,10 +18,8 @@
     <description>• Mail</description>
     <description>• Maps</description>
     <description>• Music</description>
-    <description>• Music</description>
     <description>• Notes</description>
     <description>• Photos</description>
-    <description>• Safari</description>
     <description>• Phone</description>
     <description>• Settings</description>
     <description>• Safari</description>
@@ -30,7 +28,9 @@
     <description>• YouTube (The one that comes with iOS)</description>
     <description>• Game Center</description>
 </descriptionlist>
-    <screenshots></screenshots>
+    <screenshots>
+        <screenshot src="https://github.com/user-attachments/assets/93a54024-a6dd-4113-88ff-63f6b266f223" />
+    </screenshots>
     <changelog>
         <change>This update comes with the following icons,
             Phone, Settings, Safari, Contacts, Stocks, YouTube (The one that comes with iOS), Game Center. Planned for next update: Change the video icon to Apple TV icon, add the rest of the icons, and fix the music icon.</change>
