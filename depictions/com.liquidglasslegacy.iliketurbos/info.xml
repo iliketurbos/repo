@@ -28,9 +28,7 @@
     <description>• YouTube (The one that comes with iOS)</description>
     <description>• Game Center</description>
 </descriptionlist>
-    <screenshots>
-        <screenshot src="https://github.com/iliketurbos/repo/blob/80b3954965ad16327bff822c447ee8576c49f6d1/previews/lgl01.png" />
-    </screenshots>
+    <screenshots></screenshots>
     <changelog>
         <change>This update comes with the following icons,
             Phone, Settings, Safari, Contacts, Stocks, YouTube (The one that comes with iOS), Game Center. Planned for next update: Change the video icon to Apple TV icon, add the rest of the icons, and fix the music icon.</change>
