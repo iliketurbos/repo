@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
 Filename: ./com.liquidglasslegacy.iliketurbos.deb
-Size: 337516
-MD5sum: 2626a38fa45b4c10434d2751b4e61928
-SHA1: 6a20eae12cc816fa56e1ae4ccd0ed52dbc2485cd
-SHA256: 01ac23839a02e13e37ce071e39fe1a73573ea2dbc0c1cbfb69026278c04a8468
+Size: 337580
+MD5sum: cb0e5a23ed4b8589f1157c85a0559183
+SHA1: 22ec731b9be12103281e89c64e12a57136b7eff9
+SHA256: 9807078601806d226da51ec70f45112274ba061c240f10acb2e6d3d8d57ed8e4
 Section: Themes
 Description: iOS 26 Liquid Glass icons ported to Winterboard.
 Author: iliketurbos
@@ -28,4 +28,3 @@ Description: HTTPS Patch for iOS 3 (modified to allow iOS 4)
 Author: InvoxiPlayGames
 Depiction: http://iliketurboscydiarepo.bob.com.ar
 Name: HTTPatch
-
