@@ -1,11 +1,11 @@
 <package>
     <id>com.liquidglasslegacy.iliketurbos</id>
     <name>Liquid Glass Legacy</name>
-    <version>0.2.1-alpha</version>
+    <version>1.0</version>
     <compatibility>
         <firmware>
-            <miniOS>4.0</miniOS>
-            <maxiOS>5.0</maxiOS>
+            <miniOS>3.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
@@ -13,20 +13,28 @@
 <descriptionlist>
     <description> An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Category:Apple</description>
     <description>Icon's Included:</description>
+    <description>• App Store</description>
     <description>• Calculator</description>
+    <description>• Camera</description>
     <description>• Clock</description>
+    <description>• Compass</description>
+    <description>• Contacts</description>
+    <description>• Game Center</description>
+    <description>• iTunes</description>
     <description>• Mail</description>
     <description>• Maps</description>
+    <description>• Messages</description>
     <description>• Music</description>
     <description>• Notes</description>
-    <description>• Photos</description>
     <description>• Phone</description>
-    <description>• Settings</description>
+    <description>• Photos</description>
     <description>• Safari</description>
-    <description>• Contacts</description>
+    <description>• Settings</description>
     <description>• Stocks</description>
+    <description>• Videos</description>
+    <description>• Voice Memos</description>
+    <description>• Weather</description>
     <description>• YouTube (The one that comes with iOS 5 and lower.)</description>
-    <description>• Game Center</description>
 </descriptionlist>
     <screenshots>
         <screenshot>
@@ -34,7 +42,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Fixed a few icons</change>
+        <change>This update brings full coverage of all stock iOS 4 apps, and proper icon masking.</change>
     </changelog>
     <links></links>
 </package>

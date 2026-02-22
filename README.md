@@ -4,8 +4,9 @@
 
 ## Packages
 ### Icon Themes
-- [Liquid Glass Legacy](http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos) - V0.2.1-alpha
+<table><tr><td><img width="50" height="50" alt="preview" src="icons/liquidglasslegacy.png" /></td><td valign="middle"><a href="http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos">Liquid Glass Legacy</a> - V1.0</td></tr></table>
+
 <img width="320" height="480" alt="preview" src="previews/lgl01.png" />
 
 ### Tweaks
-- [HTTPatch](https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0) - V1.0 (This removes the iOS limits, it's experimental. Original link is [here](https://cydia.invoxiplaygames.uk/package/cydiahttpatch))
+[HTTPatch](https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0) - V1.0 (This removes the iOS limits, it's experimental. Original link is [here](https://cydia.invoxiplaygames.uk/package/cydiahttpatch))

@@ -11,4 +11,8 @@
 		<version>0.2.1-alpha</version>
 		<change>Fixed a few icons</change>
 	</changes>
+		<changes>
+		<version>1.0</version>
+		<change>This update brings full coverage of all stock iOS 4 apps, and proper icon masking.</change>
+	</changes>
 </changelog>
