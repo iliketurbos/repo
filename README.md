@@ -60,5 +60,5 @@ Icons Included:
 </tr></table>
 
 ### Tweaks
-<table><tr><td valign="middle"><a href="https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0">HTTPatch</a> - V1.0</td></tr></table>
+<table><tr><td><img width="50" height="50" alt="preview" src="icons/httpatch.png" /></td><td valign="middle"><a href="https://iliketurboscydiarepo.bob.com.ar/depictions/?p=cydiahttpatch-1.0">HTTPatch</a> - V1.0</td></tr></table>
 This allows any version of iOS add this tweak. It's designed for iOS 3 so it may not work on other versions. Original link is here:(https://cydia.invoxiplaygames.uk/package/cydiahttpatch)
