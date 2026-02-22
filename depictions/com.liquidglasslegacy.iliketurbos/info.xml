@@ -1,7 +1,7 @@
 <package>
     <id>com.liquidglasslegacy.iliketurbos</id>
     <name>Liquid Glass Legacy</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <compatibility>
         <firmware>
             <miniOS>3.0</miniOS>
@@ -42,7 +42,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>This update brings full coverage of all stock iOS 4 apps, and proper icon masking.</change>
+        <change>More fixes, and  modern Yahoo! icons in the Weather app.</change>
     </changelog>
     <links></links>
 </package>
