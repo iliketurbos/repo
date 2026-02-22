@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
-Filename: ./com.liquidglasslegacy.iliketurbos.deb
+Filename: ./debs/com.liquidglasslegacy.iliketurbos.deb
 Size: 751764
 MD5sum: e2acf6fe4edc22f164ce77340dc53801
 SHA1: eb626d394602f271862080cfa4281728dc045abe
@@ -13,13 +13,13 @@ Description: iOS 26 Liquid Glass icons ported to Winterboard.
 Author: iliketurbos
 Depiction: http://iliketurboscydiarepo.bob.com.ar
 Name: Liquid Glass Legacy
-Icon: https://iliketurboscydiarepo.bob.com.ar/icons/liquidglasslegacy.png
+Icon:http://iliketurboscydiarepo.bob.com.ar/icons/liquidglasslegacy.png
 
 Package: cydiahttpatch-1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: InvoxiPlayGames
-Filename: ./cydiahttpatch-1.0.deb
+Filename: ./debs/cydiahttpatch-1.0.deb
 Size: 4380
 MD5sum: 844ceca59d8728e23b056ca259ea8e65
 SHA1: f6b2eeae2be9c659ccf4dd13a6503fef5df2e999
