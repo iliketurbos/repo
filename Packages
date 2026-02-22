@@ -1,13 +1,13 @@
 Package: com.liquidglasslegacy.iliketurbos
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
 Filename: ./debs/com.liquidglasslegacy.iliketurbos.deb
-Size: 770948
-MD5sum: 3999a059ea4b37cb30afbab3452c04a2
-SHA1: f6923aef4ea616823c7e9e789868279da3b3bbee
-SHA256: 42c6f2cd7ea7b3c3a89437d7e4b19ca785a7498c42171b339a711a9ec42c1314
+Size: 5760972
+MD5sum: 1276c96dc916b5a8f6109e41a2ecffff
+SHA1: 7ba771ed54ea1e792c83bf60b298a3c7be3d427b
+SHA256: 3fbb37cf11ebb4c84fc2fbd0390659cd91698ac5d19740f63e01ef403c62f83c
 Section: Themes
 Description: iOS 26 Liquid Glass icons ported to Winterboard.
 Author: iliketurbos

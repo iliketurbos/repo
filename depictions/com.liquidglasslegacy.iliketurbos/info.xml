@@ -2,12 +2,12 @@
     <id>com.liquidglasslegacy.iliketurbos</id>
     <name>Liquid Glass Legacy</name>
     <icon>http://iliketurboscydiarepo.bob.com.ar/icons/liquidglasslegacy.png</icon>
-    <version>1.1</version>
+    <version>1.2</version>
     <compatibility>
         <firmware>
-            <miniOS>3.0</miniOS>
-            <maxiOS>6.1.6</maxiOS>
-            <otherVersions>unconfirmed</otherVersions>
+            <miniOS>2.0</miniOS>
+            <maxiOS>9.3.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
         </firmware>
     </compatibility>
     <dependencies>winterboard</dependencies>
@@ -20,6 +20,7 @@
     <description>• Clock</description>
     <description>• Compass</description>
     <description>• Contacts</description>
+    <description>• Cydia</description>
     <description>• Game Center</description>
     <description>• iTunes</description>
     <description>• Mail</description>
@@ -43,7 +44,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>More fixes, and  modern Yahoo! icons in the Weather app.</change>
+        <change>Added FULL Cydia icon support, meaning that as long as it has Cydia, it can use this icon. Also added SF Pro/SF Pro Bold font as another theme aswell.</change>
     </changelog>
     <links></links>
 </package>
