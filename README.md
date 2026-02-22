@@ -2,7 +2,7 @@
 
 ## Packages
 ### Icon Themes
-<table><tr><td><img width="50" height="50" alt="preview" src="icons/liquidglasslegacy.png" /></td><td valign="middle"><a href="http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos">Liquid Glass Legacy</a> - V1.1 </td></tr></table>
+<table><tr><td><img width="50" height="50" alt="preview" src="icons/liquidglasslegacy.png" /></td><td valign="middle"><a href="http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos">Liquid Glass Legacy</a> - V1.2 </td></tr></table>
 
 An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Category:Apple or custom-made
 
