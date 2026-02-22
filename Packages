@@ -3,11 +3,11 @@ Version: 0.2-alpha
 Architecture: iphoneos-arm
 Maintainer: iliketurbos <beerseat.in@gmail.com>
 Depends: winterboard
-Filename: ./com.liquidglasslegacy.iliketurbos.deb
-Size: 337580
-MD5sum: cb0e5a23ed4b8589f1157c85a0559183
-SHA1: 22ec731b9be12103281e89c64e12a57136b7eff9
-SHA256: 9807078601806d226da51ec70f45112274ba061c240f10acb2e6d3d8d57ed8e4
+Filename: ./debs/com.liquidglasslegacy.iliketurbos.deb
+Size: 337516
+MD5sum: 9ddc7b90624a5e5145a69129976e0eb7
+SHA1: 6400b459e868168e1bb13d0eb9f0b3fefce50088
+SHA256: c4020e60233515ce247878bbd349b24f4d3f267c9b12d974768186ee92b24d2d
 Section: Themes
 Description: iOS 26 Liquid Glass icons ported to Winterboard.
 Author: iliketurbos
@@ -18,7 +18,7 @@ Package: cydiahttpatch-1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: InvoxiPlayGames
-Filename: ./cydiahttpatch-1.0.deb
+Filename: ./debs/cydiahttpatch-1.0.deb
 Size: 2896
 MD5sum: e3aaa945e6b27e5fcd3f71f8a0d2218c
 SHA1: 7e65534fe244d9ccc20943b58d42546df88cfdfb
@@ -28,3 +28,4 @@ Description: HTTPS Patch for iOS 3 (modified to allow iOS 4)
 Author: InvoxiPlayGames
 Depiction: http://iliketurboscydiarepo.bob.com.ar
 Name: HTTPatch
+
