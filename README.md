@@ -4,7 +4,7 @@
 
 ## Packages
 ### Icon Themes
-- [Liquid Glass Legacy](http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos) - V0.2-alpha
+- [Liquid Glass Legacy](http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos) - V0.2.1-alpha
 <img width="320" height="480" alt="preview" src="previews/lgl01.png" />
 
 ### Tweaks

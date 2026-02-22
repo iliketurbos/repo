@@ -1,7 +1,7 @@
 <package>
     <id>com.liquidglasslegacy.iliketurbos</id>
     <name>Liquid Glass Legacy</name>
-    <version>0.2-alpha</version>
+    <version>0.2.1-alpha</version>
     <compatibility>
         <firmware>
             <miniOS>4.0</miniOS>
@@ -25,7 +25,7 @@
     <description>• Safari</description>
     <description>• Contacts</description>
     <description>• Stocks</description>
-    <description>• YouTube (The one that comes with iOS)</description>
+    <description>• YouTube (The one that comes with iOS 5 and lower.)</description>
     <description>• Game Center</description>
 </descriptionlist>
     <screenshots>
@@ -34,8 +34,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>This update comes with the following icons,
-            Phone, Settings, Safari, Contacts, Stocks, YouTube (The one that comes with iOS), Game Center. Planned for next update: Change the video icon to Apple TV icon, add the rest of the icons, and fix the music icon.</change>
+        <change>Fixed a few icons</change>
     </changelog>
     <links></links>
 </package>
