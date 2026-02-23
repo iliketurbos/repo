@@ -25,4 +25,9 @@
 		<version>1.2</version>
 		<change>Added FULL Cydia icon support, meaning that as long as it has Cydia, it can use this icon. Also added SF Pro/SF Pro Bold font as another theme aswell.</change>
 	</changes>
+	</changes>
+		<changes>
+		<version>2.0</version>
+		<change>Added full retina/iPad support and fixed the font and masking.</change>
+	</changes>
 </changelog>

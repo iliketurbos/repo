@@ -2,7 +2,7 @@
     <id>com.liquidglasslegacy.iliketurbos</id>
     <name>Liquid Glass Legacy</name>
     <icon>http://iliketurboscydiarepo.bob.com.ar/icons/liquidglasslegacy.png</icon>
-    <version>1.2</version>
+    <version>2.0</version>
     <compatibility>
         <firmware>
             <miniOS>2.0</miniOS>
@@ -12,28 +12,35 @@
     </compatibility>
     <dependencies>winterboard</dependencies>
 <descriptionlist>
-    <description> An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Category:Apple</description>
-    <description>Icon's Included:</description>
-    <description>• App Store</description>
+<description>• App Store</description>
     <description>• Calculator</description>
     <description>• Camera</description>
     <description>• Clock</description>
     <description>• Compass</description>
     <description>• Contacts</description>
     <description>• Cydia</description>
+    <description>• Facetime</description>
     <description>• Game Center</description>
+    <description>• Health</description>
+    <description>• iCloud Drive</description>
+    <description>• iFile (Files icon)</description>
     <description>• iTunes</description>
     <description>• Mail</description>
     <description>• Maps</description>
     <description>• Messages</description>
-    <description>• Music</description>
+    <description>• Music (Apple Music icon)</description>
+    <description>• News/Newsstand</description>
     <description>• Notes</description>
+    <description>• Passbook/Wallet</description>
     <description>• Phone</description>
     <description>• Photos</description>
+    <description>• Podcasts</description>
+    <description>• Reminders</description>
     <description>• Safari</description>
     <description>• Settings</description>
     <description>• Stocks</description>
-    <description>• Videos</description>
+    <description>• Tips</description>
+    <description>• Videos (Apple TV icon)</description>
     <description>• Voice Memos</description>
     <description>• Weather</description>
     <description>• YouTube (The one that comes with iOS 5 and lower.)</description>
@@ -44,7 +51,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Added FULL Cydia icon support, meaning that as long as it has Cydia, it can use this icon. Also added SF Pro/SF Pro Bold font as another theme aswell.</change>
+        <change>Added full retina/iPad support and fixed the font and masking.</change>
     </changelog>
     <links></links>
 </package>
