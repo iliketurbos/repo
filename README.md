@@ -2,7 +2,7 @@
 
 ## Packages
 ### Icon Themes
-<table><tr><td><img width="50" height="50" alt="preview" src="icons/liquidglasslegacy.png" /></td><td valign="middle"><a href="http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos">Liquid Glass Legacy</a> - V1.2 </td></tr></table>
+<table><tr><td><img width="50" height="50" alt="preview" src="icons/liquidglasslegacy.png" /></td><td valign="middle"><a href="http://iliketurboscydiarepo.bob.com.ar/depictions/?p=com.liquidglasslegacy.iliketurbos">Liquid Glass Legacy</a> - V2.0 </td></tr></table>
 
 An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Category:Apple or custom-made
 
@@ -10,52 +10,39 @@ An icon reskin with all icons sourced from https://logos.fandom.com/wiki/Categor
 <td valign="top">
   
 Icons Included:
-
-• App Store
-
-• Calculator
-
-• Camera
-
-• Clock
-
-• Compass
-
-• Contacts
-
-• Cydia
-
-• Game Center
-
-• iTunes
-
-• Mail
-
-• Maps
-
-• Messages
-
-• Music
-
-• Notes
-
-• Phone
-
-• Photos
-
-• Safari
-
-• Settings
-
-• Stocks
-
-• Videos
-
-• Voice Memos
-
-• Weather
-
-• YouTube (The one that comes with iOS 5 and lower.)
+- App Store
+- Calculator
+- Camera
+- Clock
+- Compass
+- Contacts
+- Cydia (Custom icon)
+- FaceTime
+- Game Center
+- Health
+- iCloud Drive
+- iFile (Files icon)
+- iTunes
+- Mail
+- Maps
+- Messages
+- Music (Apple Music icon)
+- News
+- Newsstand
+- Notes
+- Passbook/Wallet
+- Phone
+- Photos
+- Podcasts
+- Reminders
+- Safari
+- Settings
+- Stocks
+- Tips
+- Videos (Apple TV icon)
+- Voice Memos
+- Weather
+- YouTube (The one that comes with iOS 5 and lower.)
 
 </td>
 <td><img width="320" height="480" alt="preview" src="previews/lgl01.png" /></td>
